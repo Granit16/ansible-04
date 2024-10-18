@@ -1,0 +1,8 @@
+---
+- src: git@github.com:Granit16/vector-role.git
+  scm: git
+  name: vector
+
+- src: git@github.com:Granit16/lighthouse-role.git
+  scm: git
+  name: lighthouse
